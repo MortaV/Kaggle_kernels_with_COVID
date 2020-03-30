@@ -5,7 +5,7 @@
 1. [Files in the repository](#files-in-the-repository)
 2. [Packages](#packages)
 3. [The purpose](#the-purpose)
-4. [Summary results](#summary-results)
+4. [Summary](#summary)
 5. [Data](#data)
 6. [Where is it shared?](#where-is-it-shared)
 7. [Acknowledgements](#acknowledgements)
@@ -36,7 +36,7 @@ This directory is used to store notebook for Udacity Data Scientist nanodegree.
 
 The task was to choose a dataset and to answer 3 questions related to it and write a blog post about it on Medium.
 
-# Summary results
+# Summary
 
 I chose Kaggle Meta data dataset with a putpose to check if social distancing is changing our habits on Kaggle. I analyzed 3 things:
 * number of kernels, datasets and votes on them;
