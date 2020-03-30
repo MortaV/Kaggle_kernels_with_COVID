@@ -30,4 +30,4 @@ Due to the size, datasets are not stored in this directory. But you can find the
 
 Kaggle: https://www.kaggle.com/forgetmenot/is-social-distancing-changing-our-kaggle-habits
 
-Medium: 
+Medium: https://medium.com/@morta.vilkaite/is-social-distancing-changing-our-kaggle-habits-9d61d0e67670
